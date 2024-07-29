@@ -13,8 +13,8 @@ Esta aplicación permite descargar y procesar datos de precipitación utilizando
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+    git clone https://github.com/Felipep17/honduras_precipitacion_app.git
+    cd honduras_precipitacion_app
     ```
 
 2. Crea el entorno y activa:
@@ -32,7 +32,7 @@ Esta aplicación permite descargar y procesar datos de precipitación utilizando
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/Felipep17/honduras_precipitacion_app.git
     cd tu_repositorio
     ```
 
