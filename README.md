@@ -20,7 +20,7 @@ Esta aplicación permite descargar y procesar datos de precipitación utilizando
 2. Crea el entorno y activa:
     ```sh
     conda env create -f environment.yml
-    conda activate precipitacion-env
+    conda activate myenv-env
     ```
 
 3. Ejecuta la aplicación:
